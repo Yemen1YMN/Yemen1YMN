@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="60%" alt="Developer at work"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="60%" alt="Developer at work"/>
 
 </div>
 
